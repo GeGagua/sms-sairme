@@ -1,0 +1,1 @@
+export const BackUrl = 'https://api-gateway.tegetamotors.ge/sms/v1'
